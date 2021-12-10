@@ -1,9 +1,9 @@
 {
-  "name": "com.jiangshiquan.imageeditorplugin",
-  "version": "1.3.2",
+  "name": "com.apjcorp.imageeditorplugin",
+  "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "com.jiangshiquan.imageeditorplugin",
+    "id": "com.apjcorp.imageeditorplugin",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/jianghat/image-editor-plugin.git"
+	  "url": "https://github.com/apjcorp-com/image-editor-plugin.git"
 	},
 	"dependencies": {
 	  "child_process": "^1.0.2",
