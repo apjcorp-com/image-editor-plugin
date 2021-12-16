@@ -1,5 +1,5 @@
 import UIKit
-import iOSPhotoEditor
+import APJPhotoEditor
 
 @objc(ImageEditorPlugin) class ImageEditorPlugin : CDVPlugin {
     @IBOutlet weak var imageView: UIImageView!

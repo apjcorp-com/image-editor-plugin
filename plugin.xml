@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="com.apjcorp.ImageEditorPlugin" version="1.0.1"
+<plugin id="com.apjcorp.ImageEditorPlugin" version="1.0.2"
  xmlns="http://apache.org/cordova/ns/plugins/1.0" 
  xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>ImageEditorPlugin</name>
@@ -23,7 +23,7 @@
 		        <!-- <source url="https://github.com/eventtus/photo-editor.git" /> -->
 		    </config>
 		    <pods use-frameworks="true">
-		        <pod name="iOSPhotoEditor" />
+		        <pod name="APJPhotoEditor" />
 		    </pods>
 		</podspec>
 		
